@@ -12,3 +12,8 @@ I've chosen the server version of Ubuntu over other options as this appears more
 ## First boot
 
 Run `sudo apt update`
+
+### Set Up SSH
+
+`sudo apt install openssh-server
+sudo ufw allow ssh`
