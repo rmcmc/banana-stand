@@ -15,5 +15,5 @@ Run `sudo apt update`
 
 ### Set Up SSH
 
-`sudo apt install openssh-server
-sudo ufw allow ssh`
+`sudo apt install openssh-server`
+`sudo ufw allow ssh`
