@@ -9,3 +9,6 @@ I'm using raspberry pi imager to set up an Ubuntu LTS Server 24.04. Pre populati
 
 I've chosen the server version of Ubuntu over other options as this appears more widely applicable to the wider world beyond the pi.
 
+## First boot
+
+Run `sudo apt update`
