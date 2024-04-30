@@ -18,3 +18,9 @@ Run `sudo apt update`
 `sudo apt install openssh-server`
 
 `sudo ufw allow ssh`
+
+`hostname -I`
+
+Then on laptop
+
+`ssh uid@ip.from.hostname`
