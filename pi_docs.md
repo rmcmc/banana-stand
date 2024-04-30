@@ -24,3 +24,9 @@ Run `sudo apt update`
 Then on laptop
 
 `ssh uid@ip.from.hostname`
+
+## Postgresql Setup
+
+I've decided to host all DBs on postgres https://ubuntu.com/server/docs/install-and-configure-postgresql
+
+`sudo apt install postgresql`
